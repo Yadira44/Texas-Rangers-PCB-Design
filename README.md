@@ -1,4 +1,5 @@
 # Texas Rangers PCB 
+### The working PCB is still a work in progress.
 
 
 ## Schematic
